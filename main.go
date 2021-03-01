@@ -1,4 +1,3 @@
-func main (){
-  console.log('sdfd'); 
-  
-}
+package main;
+
+func main ()
